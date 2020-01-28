@@ -1,3 +1,7 @@
+body {
+  background: #eee;
+}
+
 #bits {
   font: 40px Monospace;
   position: absolute;
